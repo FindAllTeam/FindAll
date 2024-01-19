@@ -15,9 +15,6 @@
     FindAll的界面设计简洁明了，用户无需深入了解复杂的命令行操作，大大降低了使用门槛。
     这使得即使是网络安全领域的新手也能够轻松上手，有效地进行数据分析和安全事件排查。此外，通过减少对跳板机或其他潜在风险接入点的依赖，FindAll还提升了整个安全检查过程的安全性和效率，一键分析预览异常情况，快速定位相应的风险项。
   </p>
-  <div align="center">
-     <img src="https://github.com/FindAllTeam/FindAll/assets/93359280/0f9124a1-0ea2-411b-9815-839b1ea4ce4d" alt="FindAll Logo" width="800px"/>
-  </div>
  
 ## 🌟 核心特点
 
@@ -40,6 +37,8 @@
 
 ### 🖥️ 用户友好界面
 - 界面设计简洁直观，适合各水平的蓝队成员。
+- 简洁明了，适合各水平用户，包括网络安全领域新手。
+- 支持一键分析预览异常情况，快速定位风险项。
 
 ## ⚙️ 安装与使用
 
@@ -47,16 +46,30 @@
 FindAll采用客户端-服务器（CS）架构，可以在本地进行一键扫描，也可以使用Agent进行扫描然后录入扫描结果，适用于无法直接登录远程主机进行安全检查的场景。
 
 ### 🛠 安装步骤
-1. **安装包安装即可**：
-   - 远程扫描：Agent位于C:\Program Files\FindAll\resources\buildResources，结果位于C:\\Findall\\result.hb
+1. **下载安装包一键安装即可**：
+2. **tips**
+   - 远程扫描：Agent位于`C:\Program Files\FindAll\resources\buildResources`，结果位于`C:\\Findall\\result.hb`
    - 本地扫描：一键扫描即可
-
-### 🖥️ 界面设计
-- 简洁明了，适合各水平用户，包括网络安全领域新手。
-- 支持一键分析预览异常情况，快速定位风险项。
 
 
 ### 💻 系统支持
 - 客户端支持Windows 10及以上版本。
 - 服务器支持Windows Server 2008及以上版本。
 - 其他系统需自行测试兼容性。
+
+## 📖 官方文档
+<a href="https://findallteam.github.io" target="_blank">https://findallteam.github.io</a>
+
+## 📷 截图
+
+<img src="https://findallteam.github.io/preview1.jpg" alt="preview1.jpg">
+<img src="https://findallteam.github.io/preview2.jpg" alt="preview2.jpg">
+<img src="https://findallteam.github.io/preview3.jpg" alt="preview3.jpg">
+
+## 📢声明
+<p>
+  这款工具的推出将极大地提升蓝队应对网络安全事件的能力，不仅有助于提高响应效率，还能够降低工作复杂性。通过提供全面的信息搜集和高效的威胁分析，我们可以帮助蓝队成员在复杂的网络环境中保持优势，但应急响应是一个十分复杂的工作此工具只能帮助蓝队人员收集部分信息，如有异常发现还是需要进入客户电脑进行仔细分析，无法与市面上商业的取证分析软件相比。本产品处于试用期可能会存在很多BUG，如有遇到无法正常运行的情况请前往issues进行讨论（路漫漫其修远兮，吾将上下而求索）
+</p>
+
+
+
