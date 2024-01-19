@@ -1,12 +1,5 @@
 <div align="center">
   <img src="https://github.com/FindAllTeam/findallteam.github.io/blob/master/public/logo.svg" alt="FindAll Logo" width="300px"/>
-  <h1>🔍 FindAll</h1>
-  <p>
-    本工具是专为网络安全蓝队设计的应急响应工具，旨在帮助团队成员有效地应对和分析网络安全威胁。工具集成了先进的信息搜集和自动化分析功能，以提高安全事件应对的效率和准确性。FindAll采用客户端-服务器（CS）架构，特别适用于那些无法直接登录远程主机进行安全检查的场景。在这种情况下，拥有相应权限的运维人员只需在目标主机上运行FindAll的Agent组件来收集必要的数据。随后，将数据下载到本地，供安全专家通过FindAll的直观图形用户界面（GUI）进行深入分析。
-FindAll的界面设计简洁明了，用户无需深入了解复杂的命令行操作，大大降低了使用门槛。这使得即使是网络安全领域的新手也能够轻松上手，有效地进行数据分析和安全事件排查。此外，通过减少对跳板机或其他潜在风险接入点的依赖，FindAll还提升了整个安全检查过程的安全性和效率，一键分析预览异常情况，快速定位相应的风险项。
-    <img src="https://github.com/FindAllTeam/FindAll/assets/93359280/0f9124a1-0ea2-411b-9815-839b1ea4ce4d" alt="FindAll Logo" width="300px"/>
-
-  </p>
   <!-- Badges -->
   <p>
     <img src="https://img.shields.io/badge/version-1.0.0-blue.svg" alt="Version 1.0.0"/>
@@ -14,7 +7,18 @@ FindAll的界面设计简洁明了，用户无需深入了解复杂的命令行�
     <img src="https://img.shields.io/badge/platform-Windows%20|%20Linux%20|%20macOS-lightgrey.svg" alt="Platform: Windows, Linux, macOS"/>
   </p>
 </div>
-
+<h1>🔍 FindAll</h1>
+  <p>
+    本工具是专为网络安全蓝队设计的应急响应工具，旨在帮助团队成员有效地应对和分析网络安全威胁。工具集成了先进的信息搜集和自动化分析功能，以提高安全事件应对的效率和准确性。
+    FindAll采用客户端-服务器（CS）架构，特别适用于那些无法直接登录远程主机进行安全检查的场景。在这种情况下，拥有相应权限的运维人员只需在目标主机上运行FindAll的Agent组件来收集必要的数据。
+    随后，将数据下载到本地，供安全专家通过FindAll的直观图形用户界面（GUI）进行深入分析。
+    FindAll的界面设计简洁明了，用户无需深入了解复杂的命令行操作，大大降低了使用门槛。
+    这使得即使是网络安全领域的新手也能够轻松上手，有效地进行数据分析和安全事件排查。此外，通过减少对跳板机或其他潜在风险接入点的依赖，FindAll还提升了整个安全检查过程的安全性和效率，一键分析预览异常情况，快速定位相应的风险项。
+  </p>
+  <div align="center">
+     <img src="https://github.com/FindAllTeam/FindAll/assets/93359280/0f9124a1-0ea2-411b-9815-839b1ea4ce4d" alt="FindAll Logo" width="800px"/>
+  </div>
+ 
 ## 🌟 核心特点
 
 ### 📊 综合信息搜集
