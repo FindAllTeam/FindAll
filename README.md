@@ -4,7 +4,7 @@
   <p>
     <img src="https://img.shields.io/badge/version-1.0.0-blue.svg" alt="Version 1.0.0"/>
     <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="MIT License"/>
-    <img src="https://img.shields.io/badge/platform-Windows%20|%20Linux%20|%20macOS-lightgrey.svg" alt="Platform: Windows, Linux, macOS"/>
+    <img src="https://img.shields.io/badge/platform-Windows%20-lightgrey.svg" alt="Platform: Windows"/>
   </p>
 </div>
 <h1>🔍 FindAll</h1>
