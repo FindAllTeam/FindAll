@@ -81,4 +81,8 @@ FindAll采用客户端-服务器（CS）架构，可以在本地进行一键扫�
 ## 📱微信群二维码
 <img src="https://github.com/FindAllTeam/FindAll/blob/main/images/QR.jpg?raw=true" alt="QR.jpg" width="500">
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=FindAllTeam/FindAll&type=Date)](https://star-history.com/#FindAllTeam/FindAll&Date)
+
 
