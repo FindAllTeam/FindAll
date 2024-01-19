@@ -47,7 +47,7 @@
 FindAll采用客户端-服务器（CS）架构，可以在本地进行一键扫描，也可以使用Agent进行扫描然后录入扫描结果，适用于无法直接登录远程主机进行安全检查的场景。
 
 ### 🛠 安装步骤
-1. **下载安装包一键安装即可**：
+1. **下载安装包一键安装即可**：https://github.com/FindAllTeam/FindAll/releases
 2. **tips**
    - 远程扫描：Agent位于`C:\Program Files\FindAll\resources\buildResources`，结果位于`C:\\Findall\\result.hb`
    - 本地扫描：一键扫描即可
