@@ -3,6 +3,7 @@
   <!-- Badges -->
   <p>
     <img src="https://img.shields.io/badge/version-1.0.0-blue.svg" alt="Version 1.0.0"/>
+    <img src="https://img.shields.io/github/downloads/FindAllTeam/FindAll/total" alt="downloads" />
     <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="MIT License"/>
     <img src="https://img.shields.io/badge/platform-Windows%20-lightgrey.svg" alt="Platform: Windows"/>
   </p>
@@ -78,5 +79,6 @@ FindAll采用客户端-服务器（CS）架构，可以在本地进行一键扫�
 </p>
 
 ## 📱微信群二维码
+<img src="https://github.com/FindAllTeam/FindAll/blob/main/images/QR.jpg?raw=true" alt="QR.jpg" width="500">
 
 
