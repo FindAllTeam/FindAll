@@ -3,6 +3,7 @@
   <!-- Badges -->
   <p>
     <img src="https://img.shields.io/badge/version-1.0.0-blue.svg" alt="Version 1.0.0"/>
+    <img src="https://img.shields.io/github/downloads/FindAllTeam/FindAll/total" alt="downloads" />
     <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="MIT License"/>
     <img src="https://img.shields.io/badge/platform-Windows%20-lightgrey.svg" alt="Platform: Windows"/>
   </p>
@@ -46,7 +47,7 @@
 FindAll采用客户端-服务器（CS）架构，可以在本地进行一键扫描，也可以使用Agent进行扫描然后录入扫描结果，适用于无法直接登录远程主机进行安全检查的场景。
 
 ### 🛠 安装步骤
-1. **下载安装包一键安装即可**：
+1. **下载安装包一键安装即可**：https://github.com/FindAllTeam/FindAll/releases
 2. **tips**
    - 远程扫描：Agent位于`C:\Program Files\FindAll\resources\buildResources`，结果位于`C:\\Findall\\result.hb`
    - 本地扫描：一键扫描即可
@@ -74,8 +75,14 @@ FindAll采用客户端-服务器（CS）架构，可以在本地进行一键扫�
 
 ## 📢声明
 <p>
-  这款工具的推出将极大地提升蓝队应对网络安全事件的能力，不仅有助于提高响应效率，还能够降低工作复杂性。通过提供全面的信息搜集和高效的威胁分析，我们可以帮助蓝队成员在复杂的网络环境中保持优势，但应急响应是一个十分复杂的工作此工具只能帮助蓝队人员收集部分信息，如有异常发现还是需要进入客户电脑进行仔细分析，无法与市面上商业的取证分析软件相比。本产品处于试用期可能会存在BUG，如有遇到无法正常运行的情况请前往issues进行讨论（路漫漫其修远兮，吾将上下而求索）
+  这款工具的推出将极大地提升蓝队应对网络安全事件的能力，不仅有助于提高响应效率，还能够降低工作复杂性。通过提供全面的信息搜集和高效的威胁分析，我们可以帮助蓝队成员在复杂的网络环境中保持优势，但应急响应是一个十分复杂的工作此工具只能帮助蓝队人员收集部分信息，如有异常发现还是需要进入客户电脑进行仔细分析，无法与市面上商业的取证分析软件相比。本产品处于试用期可能会存在BUG，如有遇到无法正常运行的情况请前往issues或加入微信群进行讨论（路漫漫其修远兮，吾将上下而求索）
 </p>
 
+## 📱微信群二维码
+<img src="https://github.com/FindAllTeam/FindAll/blob/main/images/QR.jpg?raw=true" alt="QR.jpg" width="500">
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=FindAllTeam/FindAll&type=Date)](https://star-history.com/#FindAllTeam/FindAll&Date)
 
 
