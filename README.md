@@ -8,7 +8,9 @@
     <img src="https://img.shields.io/badge/platform-Windows%20-lightgrey.svg" alt="Platform: Windows"/>
   </p>
 </div>
+
 English | [简体中文](./README_ZH.md)
+
 <h1>🔍 FindAll</h1>
   <p>
 FindAll is a dedicated emergency response tool designed for network security blue teams to help team members respond to and analyze network security threats effectively. It integrates advanced information gathering and automated analysis capabilities to improve the efficiency and accuracy of security incident response.
@@ -56,7 +58,7 @@ Adopts client-server architecture for one-click local scans or remote scanning v
 
 ### 🛠 Installation Steps
 
-1. **Download and install with one click: **：https://github.com/FindAllTeam/FindAll/releases
+1. **Download and install with one click**：https://github.com/FindAllTeam/FindAll/releases
 2. **Tips**
    - Remote scanning: Agent is located at `C:\Program Files\FindAll\resources\buildResources`, results are saved at `C:\\Findall\\result.hb`
    - Local scanning: Just one-click scan

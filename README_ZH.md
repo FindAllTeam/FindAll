@@ -8,7 +8,9 @@
     <img src="https://img.shields.io/badge/platform-Windows%20-lightgrey.svg" alt="Platform: Windows"/>
   </p>
 </div>
-简体中文 | [English](./README.md)
+
+简体中文 | [English](./README_EN.md)
+
 <h1>🔍 FindAll</h1>
   <p>
     本工具是专为网络安全蓝队设计的应急响应工具，旨在帮助团队成员有效地应对和分析网络安全威胁。工具集成了先进的信息搜集和自动化分析功能，以提高安全事件应对的效率和准确性。
