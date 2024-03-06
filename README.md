@@ -77,9 +77,9 @@ Adopts client-server architecture for one-click local scans or remote scanning v
 
 ## 📷 Screenshot
 
-<img src="https://findallteam.github.io/preview1.jpg" alt="preview1.jpg">
-<img src="https://findallteam.github.io/preview2.jpg" alt="preview2.jpg">
-<img src="https://findallteam.github.io/preview3.jpg" alt="preview3.jpg">
+<img src="https://findallteam.github.io/preview1_en.jpg" alt="preview1_en.jpg">
+<img src="https://findallteam.github.io/preview2_en.jpg" alt="preview2_en.jpg">
+<img src="https://findallteam.github.io/preview3_en.jpg" alt="preview3_en.jpg">
 
 ## 👥 Contributor
 
