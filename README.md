@@ -20,6 +20,7 @@ FindAll adopts a client-server (CS) architecture that is particularly suitable f
 The data is then downloaded locally for in-depth analysis by security experts through FindAll's intuitive graphical user interface (GUI). FindAll's interface is clean and straightforward, allowing users without extensive knowledge of complex command lines to get started easily, greatly lowering the barrier to entry.
 
 This enables even beginners in the network security field to easily get started and effectively perform data analysis and security incident investigation. In addition, by reducing reliance on jump servers or other potential risk access points, FindAll also enhances the overall security and efficiency of the security inspection process, providing one-click analysis and preview of anomalies to quickly identify corresponding risks.
+
   </p>
  
 ## 🌟 Key Features
@@ -61,14 +62,15 @@ Adopts client-server architecture for one-click local scans or remote scanning v
 
 1. **Download and install with one click**：https://github.com/FindAllTeam/FindAll/releases
 2. **Tips**
-   - Remote scanning: Agent is located at `C:\Program Files\FindAll\resources\buildResources`, results are saved at `C:\\Findall\\result.hb`
-   - Local scanning: Just one-click scan
+   - Local scan: Simply click to scan (recommended for Windows), local scanning is not supported on macOS.
+   - Remote scan: An Agent client is provided separately. Run the Agent client independently, and the results will be located at `C:\\Findall\\result.hb`. Then, upload the result file to the FindAll GUI client for analysis.
 
 ### 💻 System Support
 
-- Client supports Windows 10 and above
-- Server supports Windows Server 2008 and above
+- GUI Client supports supports Windows 10 and above, as well as macOS.
+- Serve Agent supports Windows Server 2008 and above
 - Other systems need to be tested for compatibility
+
 ## 📖 Official Documentation
 
 <a href="https://findallteam.github.io" target="_blank">https://findallteam.github.io</a>
@@ -90,7 +92,8 @@ Adopts client-server architecture for one-click local scans or remote scanning v
 <p>
   The launch of this tool will greatly enhance the capabilities of blue teams in responding to network security incidents. It will not only help improve response efficiency but also reduce work complexity. By providing comprehensive information gathering and efficient threat analysis, we can empower blue team members to maintain an advantage in complex network environments. However, incident response is an extremely complicated task, and this tool can only help blue team members collect some information. If any anomalies are discovered, in-depth analysis directly on the client's computer is still required. The tool cannot be compared to commercial forensic analysis software available on the market.
 
-  Since this product is still in trial use, bugs may exist. If you encounter situations where the tool cannot run properly, please go to the issues page or join our WeChat group for discussions. The road ahead is long; we shall seek tirelessly (a Chinese idiom meaning perseverance is key to any endeavor).
+Since this product is still in trial use, bugs may exist. If you encounter situations where the tool cannot run properly, please go to the issues page or join our WeChat group for discussions. The road ahead is long; we shall seek tirelessly (a Chinese idiom meaning perseverance is key to any endeavor).
+
 </p>
 
 ## 📱 WeChat group QR code
