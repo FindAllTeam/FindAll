@@ -2,7 +2,7 @@
   <img src="https://github.com/FindAllTeam/findallteam.github.io/blob/master/public/logo.svg" alt="FindAll Logo" width="300px"/>
   <!-- Badges -->
   <p>
-    <img src="https://img.shields.io/badge/version-1.2.0-blue.svg" alt="Version 1.2.0"/>
+    <img src="https://img.shields.io/badge/version-1.4.0-blue.svg" alt="Version 1.2.0"/>
     <img src="https://img.shields.io/github/downloads/FindAllTeam/FindAll/total" alt="downloads" />
     <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="MIT License"/>
     <img src="https://img.shields.io/badge/platform-Windows%20%7C%20macOS-lightgrey.svg" alt="Platform: Windows | macOS"/>
