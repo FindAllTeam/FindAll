@@ -96,11 +96,11 @@ Since this product is still in trial use, bugs may exist. If you encounter situa
 
 </p>
 
-## 📱 WeChat group QR code
+## 📱 QQ group QR code
 
 <img src="https://github.com/FindAllTeam/FindAll/blob/main/images/QR.jpg?raw=true" alt="QR.jpg" width="500">
 
-WeChat download address：https://www.wechat.com/en/
+QQ download address：https://im.qq.com/index/
 
 ## Star History
 
