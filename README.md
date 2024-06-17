@@ -98,7 +98,7 @@ Since this product is still in trial use, bugs may exist. If you encounter situa
 
 ## 📱 QQ group QR code
 
-<img src="https://github.com/FindAllTeam/FindAll/blob/main/images/QR.jpg?raw=true" alt="QR.jpg" width="500">
+<img src="https://github.com/FindAllTeam/FindAll/blob/main/images/QQQR.jpg?raw=true" alt="QR.jpg" width="500">
 
 QQ download address：https://im.qq.com/index/
 

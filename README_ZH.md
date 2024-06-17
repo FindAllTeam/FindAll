@@ -91,7 +91,7 @@ FindAll 采用客户端-服务器（CS）架构，可以在本地进行一键扫
 
 ## 📱 QQ群二维码
 
-<img src="https://github.com/FindAllTeam/FindAll/blob/main/images/QR.jpg?raw=true" alt="QR.jpg" width="500">
+<img src="https://github.com/FindAllTeam/FindAll/blob/main/images/QQQR.jpg?raw=true" alt="QR.jpg" width="500">
 
 ## Star History
 
